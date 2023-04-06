@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mdb": "^0.1.0",
+    "mdb-cli": "^4.3.0"
+  },
+  "name": "mail",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
